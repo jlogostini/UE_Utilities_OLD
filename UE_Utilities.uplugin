@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE Utilities",
+	"Description": "",
+	"Category": "Utilities",
+	"CreatedBy": "JohnLogostini",
+	"CreatedByURL": "https://github.com/jlogostini",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false
+}
